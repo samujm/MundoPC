@@ -27,6 +27,6 @@ public class DispositivoEntrada {
     
     @Override
     public String toString(){
-        return "Dispositivo Entrada= [ tipoEntrada: " + tipoEntrada + ", marca: " + marca;
+        return "DispositivoEntrada= [ tipoEntrada: " + tipoEntrada + ", marca: " + marca + " ]";
     }
 }
