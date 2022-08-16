@@ -1,4 +1,4 @@
-package com.gm.mundopc;
+package mx.com.gm.mundopc;
 
 public class DispositivoEntrada {
     private String tipoEntrada;
