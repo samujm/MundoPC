@@ -10,7 +10,7 @@ public class DispositivoEntrada {
     }
     
     public String getTipoEntrada(){
-        return tipoEntrada;
+        return this.tipoEntrada;
     }
     
     public void setTipoEntrada(String tipoEntrada){
@@ -18,7 +18,7 @@ public class DispositivoEntrada {
     }
     
     public String getMarca(){
-        return marca;
+        return this.marca;
     }
     
     public void setMarca(String marca){
