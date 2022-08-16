@@ -9,6 +9,7 @@ public class Teclado extends DispositivoEntrada{
         this.idTeclado = ++Teclado.contadorTeclados;        
     }
     
+    @Override
     public String toString(){
         return "Teclado{" + "idTeclado=" + idTeclado + ", " + super.toString() + '}';
     }
